@@ -1,10 +1,17 @@
 Know Redux Step by Step
+
 1)Open VS Code
+
 2)Create folder
+
 3)npm init
+
 4)Enter name and press enter,enter…
+
 5)Create file (abc.js)
+
 6)npm install redux --save 
+
 7)After below code run node abc.js in terminal
 
 //Step 1 : import redux
